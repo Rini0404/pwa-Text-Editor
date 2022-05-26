@@ -15,10 +15,13 @@
 </p>
 
 > a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+![cap1](https://user-images.githubusercontent.com/95727555/170564466-1f9a75f2-330d-47a9-8dc2-22df91972589.PNG)
+![cap2](https://user-images.githubusercontent.com/95727555/170564468-39ded842-d28d-4cf4-929d-5d85abc172ab.PNG)
+![cap3](https://user-images.githubusercontent.com/95727555/170564469-b570bacf-7395-4839-a187-1902c067af53.PNG)
 
 ### 🏠 [Homepage](https://github.com/Rini0404/pwa-Text-Editor)
 
-### ✨ [Demo](m-a)
+### ✨ [Demo](https://drive.google.com/file/d/1CHnZH_skvoEWZge9LR17NbFVNJDEofdI/view)
 
 ## Prerequisites
 
